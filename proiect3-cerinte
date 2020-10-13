@@ -1,0 +1,10 @@
+La facultatea Y studentii intra in sesiune. In regulament e prevazut ca ei sa aiba un anumit numar de examene. 
+Fiecare examen are un numar, incrementat automat, denumirea materiei data si nota la scris. Partialul contine si nota la oral, iar examenul final
+contine extra puncte pe un proiect. Daca partialul nu e luat, atunci se reface la examenul final, altfel, se pastreaza nota.
+
+Cerinte:  -sa se adauge toate campurile relevante pentru modelarea problemei;
+          -contruirea clasei template Catalog care sa contina informatii despre tipurile de examene date (nr_matricol,nr_examene si structura de obiecte);
+          -utilizare variabile statice, constante si functii const;
+          -tratare exceptii;
+          -citirea informatiilor complete a n obiecte, memorare si afisare.
+          
